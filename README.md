@@ -8,26 +8,12 @@
 
 This analysis serves as a course submission for "Learn Data Analysis with Python" offered by Dicoding. It demonstrates the application of data analysis techniques and visualization skills learned in the course.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Data Source](#data-source)
-- [Libraries Used](#libraries-used)
-- [Key Insights](#key-insights)
-- [How to Run the Dashboard](#how-to-run-the-dashboard)
-- [About Me](#about-me)
-
-## Introduction
-
-## Data Source
-
 ## Libraries Used
 
 - Streamlit
 - Pandas
 - Matplotlib
-
-## Key Insights
+- Seaborn
 
 ## How to Run the Dashboard
 
@@ -50,13 +36,7 @@ To run the Air Quality Analysis Dashboard, follow these steps:
 
 2. **Install Required Packages**:
 
-   - The following packages are necessary for running the analysis and the dashboard:
-
-     ```
-     pip install pandas numpy scipy matplotlib
-     ```
-
-     or you can do
+   - The following command will install the required packages that are necessary for running the analysis and the dashboard:
 
      ```
      pip install -r requirements.txt
